@@ -1,4 +1,4 @@
-# Nicholas Friends And Family Community
+# Nicholas Friends & Family
 
 > Send a message if you'd like an invite to this org.
 
