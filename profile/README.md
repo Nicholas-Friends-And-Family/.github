@@ -1,4 +1,4 @@
-# Nicholas Friends & Family
+# Nicholas - Friends & Family
 
 > Send a message if you'd like an invite to this org.
 
@@ -6,7 +6,7 @@
 
 [Click here to join the discord community server.](https://notnick.io/community)
 
-## Rules
+## Community Rules
 
 **1. Respect Everyone**
 <br>Treat all members with courtesy and respect. Harassment, hate speech, or any form of discrimination will not be tolerated.
